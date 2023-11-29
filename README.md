@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alirecommends
 - 👀 I’m interested in UX/UI design and web development.  
-- 🌱 I’m currently learning Figma, Web and hopefully a framwork!
-- 💞️ I’m looking to collaborate on learning simple javascript codes and interactie CSS.
+- 🌱 I’m currently learning Javascrip!
+- 💞️ I’m looking to collaborate on learning simple javascript codes and interactive CSS.
 - 📫 How to reach me ...
 
 <!---
