@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @alirecommends
-- 👀 I’m interested in UX/UI design and web development.  
-- 🌱 I’m currently learning Javascrip!
-- 💞️ I’m looking to collaborate on learning simple javascript codes and interactive CSS.
-- 📫 How to reach me ...
+- 🌱 I am a Product Designer and data visualization enthusiast exploring the intersection of politics, economics, and culture through interactive 3D web technologies.
 
 <!---
 alirecommends/alirecommends is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
